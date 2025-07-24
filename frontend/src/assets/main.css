@@ -1,0 +1,33 @@
+/* @import './base.css';  */
+@import 'halfmoon/css/halfmoon.min.css';
+
+
+body {
+  background-color: #f6fafd;
+ 
+}
+
+form{
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 50px;
+  padding-bottom: 50px;
+
+}
+.pl{
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 50px;
+  padding-bottom: 50px;
+
+}
+textarea{
+  width: 100%;
+  height: 100px;
+}
+
+.error {
+  color: red;
+  margin-left: 25%;
+  margin-right: auto;
+}
