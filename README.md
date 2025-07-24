@@ -2,7 +2,7 @@
 
 Prueba de api
 
-Method	Endpoint	Description
+Descripcion de Endpoint
 GET	/api/products	List all products
 POST	/api/products	Create new product
 GET	/api/products/{id}	Get single product
