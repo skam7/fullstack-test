@@ -1,15 +1,24 @@
-# fullstack-test\
+# Fullstack Product Management App (Laravel + Vue.js)
 
-Prueba de api
 
-Descripcion de Endpoint
+## Requisitos
 
-GET	/api/products	List all products
+- PHP 8.0+
+- Composer
+- Node.js 16+
+- MySQL 5.7+
+- Git
 
-POST	/api/products	Create new product
+## Endpoints
 
-GET	/api/products/{id}	Get single product
+-API: http://localhost:8000
 
-PUT	/api/products/{id}	Update product
+-Frontend: http://localhost:3000
 
-DELETE	/api/products/{id}	Delete product
+
+#Método	Endpoint	Descripción
+-GET	/api/products	Obtener todos los productos
+-POST	/api/products	Crear nuevo producto
+-GET	/api/products/{id}	Obtener producto específico
+-PUT	/api/products/{id}	Actualizar producto
+-DELETE	/api/products/{id}	Eliminar producto
